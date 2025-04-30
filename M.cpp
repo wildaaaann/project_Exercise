@@ -19,6 +19,6 @@ int main() {
         }
     }
 
-    printf("%d\n", b[a]);
+    printf("Median: %d\n", b[a]);
     return 0;
 }
